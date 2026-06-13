@@ -1,0 +1,5 @@
+rsconnect/
+.Rhistory
+.RData
+.Rproj.user
+app.bak.R
