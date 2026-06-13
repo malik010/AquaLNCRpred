@@ -2,4 +2,5 @@ rsconnect/
 .Rhistory
 .RData
 .Rproj.user
-app.bak.R
+ app.bak.R
+.DS_Store
