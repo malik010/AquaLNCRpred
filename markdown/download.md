@@ -30,14 +30,13 @@ Navigate to this directory and follow the instructions provided in the `README` 
 
 ## 2. Complete Shiny Application
 
-The complete AquaLNCRpred Shiny application can be downloaded and deployed locally from the GitHub repository:
+The complete AquaLNCRpred Shiny application can be downloaded and deployed locally as a webserver from the GitHub repository:
 
 **GitHub Repository:**
 
 ```text
-https://github.com/USERNAME/AquaLNCRpred
+https://github.com/malik010/AquaLNCRpred
 ```
 
-Replace the above URL with the actual GitHub repository link.
 
 After downloading or cloning the repository, follow the installation instructions provided in the repository documentation to run the application on your local machine.
